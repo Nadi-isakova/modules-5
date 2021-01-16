@@ -1,6 +1,19 @@
-.keyboard {
-  background-image: url("../oteli/img/keyboard_tab.jpg");
-}
 .special-22 {
   background-image: url("../oteli/img/22.jpg");
+}
+
+.service {
+  background-image: url("../oteli/img/10.jpg");
+}
+
+.rent {
+  background-image: url("../oteli/img/15.jpg");
+}
+
+.saunas {
+  background-image: url("../oteli/img/12.jpg");
+}
+
+.parking {
+  background-image: url("../oteli/img/carlo-d-agnolo-aFxSh_l4fbY-unsplash.jpg");
 }
